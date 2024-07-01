@@ -1,2 +1,5 @@
 # ColoredCube
-by typing a color the cube is gona become that color (HEX codes work too) and by typing like 40px its corner are gonna become round same with like 50%
+
+a project witch colores the cube by HEX or color names and makes the corners round
+if you type a number and px with no spaces or type a number and after it with no 
+spaces % (example : "red 40px" its going to make a red cube with round corners.).
